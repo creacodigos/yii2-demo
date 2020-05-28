@@ -5,6 +5,7 @@
     <h1 align="center">Yii 2 Basic Project Template</h1>
     <br>
 </p>
+
 [Documentación en Español](https://www.yiiframework.com/doc/guide/2.0/es)
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
